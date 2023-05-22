@@ -1,0 +1,1 @@
+INSERT INTO BOOKS(0, "Duna", 1963)
